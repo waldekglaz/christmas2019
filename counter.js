@@ -1,7 +1,7 @@
 function countDown(){
     var date = new Date;
     
-    var christmasDate = new Date('Dec 24, 2019 23:59:59');
+    var christmasDate = new Date('Dec 24, 2020 23:59:59');
     
     var christmas = christmasDate - date;
     
